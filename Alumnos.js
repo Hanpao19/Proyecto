@@ -3,9 +3,4 @@ class alumno extends Persona{
     Contraseña;
     nss;
     #Grupo;
-
-    asignar_Matri = new function(){
-        let a;
-        this.Nombre + a++;
-    }
 }
