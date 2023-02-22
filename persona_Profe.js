@@ -1,4 +1,4 @@
-class Persona{
+class Usuario{
     #id;
     Nombre;
     Apellidos;
